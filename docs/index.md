@@ -35,7 +35,7 @@
 ## 实验目录
 1. [实验一-环境配置及PyTorch练习](https://raw.githubusercontent.com/suntea233/course-demo/refs/heads/main/docs/lab1/%E5%AE%9E%E9%AA%8C%E4%B8%80%E4%BB%8B%E7%BB%8D.md)
 
-2. [实验二-神经网络基础：激活函数与正则化](./lab2/实验二介绍.md)
+2. [实验二-神经网络基础：激活函数与正则化](https://raw.githubusercontent.com/suntea233/course-demo/refs/heads/main/docs/lab2/%E5%AE%9E%E9%AA%8C%E4%BA%8C%E4%BB%8B%E7%BB%8D.md)
 
 [//]: # (3. [实验三-卷积神经网络]&#40;./lab3/实验三介绍.md&#41;)
 
@@ -63,6 +63,7 @@
 2. 在完成实验过程中，对他人工作（出版物、互联网资料）中文本的直接照搬（包括原文的直接复制粘贴及语句的简单修改等）都将视为剽窃，剽窃者成绩将被取消。对于完成实验中有关键作用的公开资料，应予以明显引用。
 
 3. 如果发现实验报告之间高度似将被判定为互相抄袭行为， 抄袭和被抄袭双方的成绩都将被取消。因此请主动防止自己的实验报告被他人抄袭。
+
 
 
 
